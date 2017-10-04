@@ -1,1 +1,1 @@
-# exercice-repo
+# malko tekst promenqm az tuk.
