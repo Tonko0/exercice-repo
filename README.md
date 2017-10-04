@@ -11,3 +11,5 @@ I mastera go promenqme
 
 Promenqme v brancha
 
+aDD-VAME TEKST ZA BASH4ETO
+
