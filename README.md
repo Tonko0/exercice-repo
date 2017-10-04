@@ -9,3 +9,5 @@ Opraihme go toq konflikt
 
 I mastera go promenqme
 
+Promenqme v brancha
+
