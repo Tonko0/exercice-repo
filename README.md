@@ -7,3 +7,5 @@ Ot hub4eto promenki pravq taramtaram
 
 Opraihme go toq konflikt
 
+I mastera go promenqme
+
