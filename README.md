@@ -18,5 +18,9 @@ oPITVAME DA CRASHNEM S BASH
 
 KONFLIKT!!
 
+
 master change with bash
+
+samo ediniq promenqme za brancha s bash, omruzna mi leko
+
 
