@@ -13,4 +13,8 @@ Promenqme v brancha
 
 aDD-VAME TEKST ZA BASH4ETO
 
+
 oPITVAME DA CRASHNEM S BASH
+
+KONFLIKT!!
+
