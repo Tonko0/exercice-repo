@@ -18,3 +18,5 @@ oPITVAME DA CRASHNEM S BASH
 
 KONFLIKT!!
 
+samo ediniq promenqme za brancha s bash, omruzna mi leko
+
