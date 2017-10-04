@@ -18,3 +18,5 @@ oPITVAME DA CRASHNEM S BASH
 
 KONFLIKT!!
 
+master change with bash
+
